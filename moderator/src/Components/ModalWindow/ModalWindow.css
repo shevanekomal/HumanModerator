@@ -1,0 +1,61 @@
+.PreviewHeader{
+  display: flex;
+  justify-content: space-between;
+}
+.PreviewHeader button{
+  border: none;
+    background: transparent;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+}
+.PreviewHeader span{
+  font-size: 20px;
+  font-weight: bold;
+}
+.makeStyles-ModalWindow-1 img,.container
+{
+  display: block;
+  margin: auto;
+  width: 65%;
+}
+.makeStyles-ModalWindow-1 img{
+  width: 42%;
+  height: 65%;
+}
+.makeStyles-ModalWindow-1{
+  BACKGROUND: #1c1919!important;
+  BORDER: 1PX SOLID!important;
+}
+.container{
+  margin-top: 10px;
+  font-size: 18px;
+}
+.container div{
+  padding: 5px;
+}
+.container input[type='text']{
+width:84%
+}
+.buttonContainer button{
+     width: 104px;
+    height: 40px;
+    font-size: 17px;
+    border:none;
+    color: white;
+}
+
+.buttonContainer button:nth-child(1){
+background: green;
+}
+.buttonContainer button:nth-child(2){
+  background: red;
+}
+.buttonContainer button:nth-child(3){
+  background: #50c0cb;
+}
+.buttonContainer{
+  display: flex;
+    justify-content: space-between;
+    margin-top: 13px;
+}

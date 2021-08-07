@@ -1,0 +1,17 @@
+.header{
+  text-align: center;
+  font-size: 30px;
+}
+.ModeratorGrid td{
+  padding: 10px;
+  text-align: center;
+}
+.ModeratorGrid tr:nth-child(1) td{
+  font-weight: bold;
+}
+.ModeratorGrid { 
+  border-collapse: collapse;
+  margin: auto;
+  margin-top: 18px;
+ }
+tr{ border-top: 1px solid gray;}
