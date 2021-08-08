@@ -1,6 +1,7 @@
 .header{
-  text-align: center;
+  /* text-align: center; */
   font-size: 30px;
+  margin: 10px;
 }
 .ModeratorGrid td{
   padding: 10px;
@@ -11,7 +12,8 @@
 }
 .ModeratorGrid { 
   border-collapse: collapse;
-  margin: auto;
+  /* margin: auto; */
   margin-top: 18px;
+  margin: 10px;
  }
 tr{ border-top: 1px solid gray;}
